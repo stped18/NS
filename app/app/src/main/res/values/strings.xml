@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">GroupTracker</string>
+    <string name="password">Password</string>
+    <string name="mail">Main</string>
+    <string name="btn_submit">Login</string>
+</resources>
